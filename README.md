@@ -7,10 +7,10 @@ Steps to run the code locally -
 4. Run main.py by executing the following line on terminal 'uvicorn main:app --host 0.0.0.0 --port 8000'
 5. This will start the app on the local host (port number 8000).
 6. The API endpoints are -
-   GET '/' - Home. Prints that the API is running
-   POST '/api/add_document' - Adds documents to the database from newsapi.org
-   POST '/api/search' -  Give the query, top_k (number of similar documents required and defualt is 5), metric ('cosine' or 'dot': default is cosine)
-7. I have tested this API using Thunderclient on vscode. Below are some screenshots of the same.
+   \n GET '/' - Home. Prints that the API is running
+   \n POST '/api/add_document' - Adds documents to the database from newsapi.org
+   \n POST '/api/search' -  Give the query, top_k (number of similar documents required and defualt is 5), metric ('cosine' or 'dot': default is cosine)
+8. I have tested this API using Thunderclient on vscode. Below are some screenshots of the same.
 
 ![image](https://github.com/user-attachments/assets/9ce040ca-aa99-433c-a54a-0681c43abe87)
 
