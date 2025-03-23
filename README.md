@@ -1,5 +1,5 @@
 # Giva2
-
+The project has been deployed at hugging face space. Use https://anisuryaj-giva2.hf.space/ to run the app. The endpoints are the same as given below (6th point).
 Steps to run the code locally - 
 1. This is the second task of the Giva assignment. Download all files in the repo and save them locally.
 2. Go to newsapi.org. Generate an API key to fetch the latest news. For evaluation purposes, I have written down the API key I used in '.env' file. The news gets updated everyday. Currently there are 29 articles in the database.
