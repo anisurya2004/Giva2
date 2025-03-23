@@ -5,7 +5,7 @@ Steps to run the code locally -
 2. Go to newsapi.org. Generate an API key to fetch the latest news. For evaluation purposes, I have written down the API key I used in '.env' file.
 3. The dependencies are given in the requirements.txt. Use the following code to install all the dependencies - pip install fastapi pydantic faiss-cpu numpy sentence-transformers python-dotenv requests
 4. Run main.py by executing the following line on terminal 'uvicorn main:app --host 0.0.0.0 --port 8000'
-5. This will start the app on the local host (port number 8000). \
+5. This will start the app on the local host (port number 8000).
 6. The API endpoints are -
    GET '/' - Home. Prints that the API is running
    POST '/api/add_document' - Adds documents to the database from newsapi.org
