@@ -12,4 +12,18 @@ Steps to run the code locally -
    POST '/api/search' -  Give the query, top_k (number of similar documents required and defualt is 5), metric ('cosine' or 'dot': default is cosine)
 7. I have tested this API using Thunderclient on vscode. Below are some screenshots of the same.
 
+![image](https://github.com/user-attachments/assets/9ce040ca-aa99-433c-a54a-0681c43abe87)
+
+![image](https://github.com/user-attachments/assets/bc4a97f4-dce7-4b6f-b55b-a3063fbe60d0)
+
+Query - 
+![image](https://github.com/user-attachments/assets/e04632ba-9618-4f8a-8450-bef839841d1e)
+
+Result -
+![image](https://github.com/user-attachments/assets/bf809c31-1fc6-46e5-b14b-c6975e02b81d)
+
+
+
+
+
    
